@@ -1,0 +1,1 @@
+This assignment was a continuation of HW2. I followed through on the preprocessing steps and statistical test I had planned for my hypothesis for the citibike dataset. Specifically, I identified "commuters" in the dataframe and conducted a chi-square test.
